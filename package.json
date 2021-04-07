@@ -4,7 +4,7 @@
   "description": "Base de datos para el proyecto",
   "main": "index.js",
   "scripts": {
-    "start": "supervisor ./server/server.js"
+    "start": "node ./server/server.js"
   },
   "author": "Sebastian",
   "license": "ISC",
